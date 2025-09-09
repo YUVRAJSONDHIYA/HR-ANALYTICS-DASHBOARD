@@ -28,4 +28,5 @@ Dataset: HR Data (Excel file with employee details, demographics, job roles, edu
 
 ✨ Snapshot/Demos
 Github link  :- 
-snapshot link :- 
+
+snapshot link :- https://github.com/YUVRAJSONDHIYA/HR-ANALYTICS-DASHBOARD/blob/main/Snapshot%20of%20Dashboard.png
