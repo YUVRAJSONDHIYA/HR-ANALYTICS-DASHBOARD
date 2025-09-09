@@ -27,6 +27,6 @@ Dataset: HR Data (Excel file with employee details, demographics, job roles, edu
 🧑‍🤝‍🧑 Employee Overview – Total employees, active employees, and average age tracking
 
 ✨ Snapshot/Demos
-Github link  :- 
+Github link  :- https://github.com/YUVRAJSONDHIYA/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20DASHBOARD.pbit
 
 snapshot link :- https://github.com/YUVRAJSONDHIYA/HR-ANALYTICS-DASHBOARD/blob/main/Snapshot%20of%20Dashboard.png
