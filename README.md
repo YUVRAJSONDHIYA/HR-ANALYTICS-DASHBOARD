@@ -20,11 +20,17 @@ Dataset: HR Data (Excel file with employee details, demographics, job roles, edu
 
 
 ✨ Features & Highlights
+
 📉 Attrition Analysis – Overall attrition rate, department-wise and education-wise breakdown
+
 👥 Workforce Demographics – Age, gender, and job role distribution
+
 🎓 Education Insights – Attrition trends by educational background
+
 📊 Job Satisfaction Ratings – Visual representation of employee satisfaction across roles
+
 🧑‍🤝‍🧑 Employee Overview – Total employees, active employees, and average age tracking
+
 
 ✨ Snapshot/Demos
 Github link  :- https://github.com/YUVRAJSONDHIYA/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20DASHBOARD.pbit
